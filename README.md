@@ -1,4 +1,4 @@
-# Unitrader-SSE
+# Unitrader-SSE(Secure Sale Environment)
 
 Unitrader-SSE is a real-time auction platform built using **Next.js** and **Server-Sent Events (SSE)**, designed specifically for a college community. This document serves as a comprehensive guide to the repository's features, setup, and development.
 
