@@ -578,7 +578,7 @@ export async function getServerSideProps() {
     menu: [
       { title: 'Find Products', url: '/search' },
       { title: 'Sell Items', url: '/upload-details' },
-      { title: 'Chat', url: '/chat' },
+     // { title: 'Chat', url: '/chat' },
     ],
   }
 
