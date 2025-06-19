@@ -154,10 +154,3 @@ Unitrader-SSE/
 
 ---
 
-## 📄 License
-
-This project is for educational purposes only and may be modified for academic use.
-
----
-
-Feel free to raise issues or contact the maintainer for questions or suggestions.
